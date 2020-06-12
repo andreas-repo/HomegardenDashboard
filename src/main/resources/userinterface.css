@@ -1,0 +1,19 @@
+.label {
+    -fx-font-size: 10px;
+    -fx-font-weight: bold;
+    -fx-text-fill: rgb(6, 9, 0);
+
+}
+
+#setupTabTitle {
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-label-fill: rgb(6, 9, 0);
+
+}
+
+
+.root {
+    -fx-background-image: url("tribal-changed.jpg");
+}
+
